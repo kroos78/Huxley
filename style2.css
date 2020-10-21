@@ -35,7 +35,7 @@ h1 {
 }
 
 .header ul li {
-    border: 1px, solid purple;
+    border: 1px, solid rebeccapurple;
     display: inline;
     padding: 5px ;
     margin-bottom: 5px;
